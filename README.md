@@ -4,16 +4,6 @@ An intelligent and energy-efficient street lighting system developed under the T
 
 ---
 
-## Team Members
-
-- Kunal Dhiman
-- Prince Bansal
-- Samvrit
-- Ekam
-- Princi
-- V Sriharika
-
----
 
 ## Problem Statement
 
