@@ -1,0 +1,15 @@
+IF Daylight
+    Streetlight OFF
+
+ELSE
+
+    IF Motion Detected
+        Brightness = 100%
+        Notify Nearby Streetlights
+
+    ELSE
+        Brightness = 10-20%
+
+    ENDIF
+
+ENDIF
